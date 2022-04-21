@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SwiftFormFieldValidator"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "This library is used for validate specific type of fields in a form."
   spec.description  = "Need to update description, but as the situation demands I'm added som sort of description like texts here."
 
